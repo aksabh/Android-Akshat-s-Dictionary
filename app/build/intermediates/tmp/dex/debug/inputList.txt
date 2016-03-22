@@ -1,0 +1,2 @@
+/Users/akshatsharma/Downloads/Akshat's Dictionary/app/build/intermediates/classes/debug
+/Users/akshatsharma/Downloads/Akshat's Dictionary/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-fe410a605b054c79d2371255b54575743b54d4b7.jar
